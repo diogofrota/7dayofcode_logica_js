@@ -4,12 +4,10 @@ Este repositório contém as soluções dos exercícios Alura #7daysofcode de L�
 
 ## Desafio 1/7: Comparação de Variáveis
 
-### Descrição do Desafio
+### Descrição:
 
 O desafio consiste em entender e implementar comparações entre variáveis utilizando diferentes operadores de comparação no Javascript.
 
-### Sobre o Desafio
 
-Este é um dos sete desafios oferecidos pela Alura no programa #7daysofcode para ajudar iniciantes a praticar e desenvolver suas habilidades de lógica e programação em Javascript.
 
 
